@@ -12,4 +12,6 @@ Début
         Afficher "C'est un palindrome"
     Sinon
         Afficher "Ce n'est pas un palindrome"
-        
+    finsi
+fin
+
